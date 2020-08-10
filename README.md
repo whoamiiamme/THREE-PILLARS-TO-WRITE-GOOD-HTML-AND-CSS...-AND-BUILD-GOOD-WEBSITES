@@ -1,6 +1,6 @@
-THREE PILLARS TO WRITE GOOD HTML AND CSS... AND BUILD GOOD WEBSITES
+THREE PILLARS TO WRITE GOOD HTML AND CSS... AND BUILD GOOD WEBSITES                                                                                                                  
 
-Responsive design 
+Responsive design                                                                                                                                                                      
 • Fluid layouts
 • Media queries
 • Responsive images
