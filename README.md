@@ -2,12 +2,12 @@ THREE PILLARS TO WRITE GOOD HTML AND CSS... AND BUILD GOOD WEBSITES
 
 Responsive design                                                                                                                                                                      
 • Fluid layouts                                                                                                                                                                       
-• Media queries
-• Responsive images
-• Correct units
-• Desktop-first vs mobile-first
+• Media queries                                                 
+• Responsive images                                      
+• Correct units                                                  
+• Desktop-first vs mobile-first                                                                     
 
-Maintainable and scalable code
+Maintainable and scalable code                                               
 
 • Clean
 • Easy-to-understand
