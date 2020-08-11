@@ -1,5 +1,5 @@
 THREE PILLARS TO WRITE GOOD HTML AND CSS... AND BUILD GOOD WEBSITES                                                                                                              
-from:Advanced CSS and Sass: Flexbox, Grid, Animations and More! - author: Jonas Schmedtmann
+
 
 Responsive design                                                                                                                                                                      
 • Fluid layouts                                                                                                                                                                                                                                                                                                                                                      
