@@ -26,6 +26,7 @@ Web performance
 • Less images                        
 • Compress images          
 
+![image](https://user-images.githubusercontent.com/67548714/89860763-686de580-dbce-11ea-920f-90c649de7662.png)
                             
 THE THINK - BUILD - ARCHITECT MINDSET                 
                      
