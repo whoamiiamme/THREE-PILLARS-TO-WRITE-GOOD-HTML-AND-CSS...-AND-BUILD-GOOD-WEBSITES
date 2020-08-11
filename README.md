@@ -24,7 +24,8 @@ Web performance
 • Compress code                    
 • Use a CSS preprocessor                      
 • Less images                        
-• Compress images                        
+• Compress images          
+
                             
 THE THINK - BUILD - ARCHITECT MINDSET                 
                      
